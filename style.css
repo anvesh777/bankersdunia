@@ -1,6 +1,6 @@
 body{
-  
-  background-image: url('images/body_bg.JPG'); repeat;
+  background-color: #e2dad7;
+  /* background-image: url('images/body_bg.JPG'); repeat; */
   color:#000305;
   font-size:87.5%;
   font-family: Arial, 'Lucida Sans Unicode';
